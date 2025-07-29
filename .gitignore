@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.lock.hcl
+xops_key.pem
+*.exe
+*.zip
+*.log
+.DS_Store
+*.png
