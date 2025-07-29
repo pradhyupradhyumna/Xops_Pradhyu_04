@@ -31,20 +31,7 @@ terraform destroy
 
 ## Screenshots
 
-Screenshots
-https://github.com/pradhyupradhyumna/Xops_Pradhyu_04/blob/460cbd4e166c933fe1a5366deeb483ce00c3076c/Screenshots/Xops_MC4.png
-
-**Terraform Apply Output**  
-![Terraform Output](./screenshots/terraform-output.png)
-
-**Ansible Playbook Success**  
-![Ansible Output](./screenshots/ansible-success.png)
-
-**NGINX Web Page**  
-![Deployed Site](./screenshots/nginx-browser.png)
-
-**XOps Challenge Completion**  
-![Challenge Complete](./screenshots/Xops_MC4.png)
+https://github.com/pradhyupradhyumna/Xops_Pradhyu_04/tree/460cbd4e166c933fe1a5366deeb483ce00c3076c/Screenshots
 
 ## Author
 Pradhyu - Completed XOps MC - 4
