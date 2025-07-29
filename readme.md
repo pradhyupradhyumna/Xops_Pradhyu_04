@@ -31,6 +31,8 @@ terraform destroy
 
 ## Screenshots
 
+Screenshots
+
 **Terraform Apply Output**  
 ![Terraform Output](./screenshots/terraform-output.png)
 
