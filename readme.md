@@ -32,6 +32,7 @@ terraform destroy
 ## Screenshots
 
 Screenshots
+https://github.com/pradhyupradhyumna/Xops_Pradhyu_04/blob/460cbd4e166c933fe1a5366deeb483ce00c3076c/Screenshots/Xops_MC4.png
 
 **Terraform Apply Output**  
 ![Terraform Output](./screenshots/terraform-output.png)
